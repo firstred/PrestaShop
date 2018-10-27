@@ -27,7 +27,7 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "ircmaxell/password-compat": "^1.0.4",
         "ircmaxell/random-lib": "^1.2.0",
-        "jakeasmith/http_build_url": "^1",
+        "jakeasmith/http_build_url": "^0.1.5",
         "league/tactician-bundle": "^0.4.1",
         "matthiasmullie/minify": "~1.3.0",
         "mobiledetect/mobiledetectlib": "~2.8.22",
@@ -102,7 +102,7 @@
         "symfony/monolog-bundle": "^3.1.0",
         "symfony/polyfill-apcu": "^1.0",
         "symfony/swiftmailer-bundle": "^2.6.4",
-        "symfony/symfony": ">=3.4.8",
+        "symfony/symfony": "~3.4.8",
         "tecnickcom/tcpdf": "^6.2.12",
         "twig/twig": "^1.0||^2.0"
     },
